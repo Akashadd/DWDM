@@ -1,0 +1,5 @@
+#create a vector
+x<-c(12,7,3,4,2,18,2,54,-21,8,-15)
+#find the median
+median.result<-median(x)
+print(median.result)
